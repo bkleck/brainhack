@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/77097236/103881124-fbc32c80-5114-11eb-87e0-47804b7fe098.png)
+
 # brainhack
 CV and NLP for DSTA Brainhack 2020 Hackathon
 
